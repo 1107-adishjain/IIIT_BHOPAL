@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "38399384797",
+    "project_id": "iiit-bhopal-e4df3",
+    "storage_bucket": "iiit-bhopal-e4df3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38399384797:android:2d635b28a16be9a17e8f34",
+        "android_client_info": {
+          "package_name": "com.example.iiitbhopal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYHW29MfXSZvDbVRE0qWndjfngdw-HXW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
